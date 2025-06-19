@@ -1,0 +1,9 @@
+How to select an option to verify your identity:
+
+Purpose: On this form you can select whether you want to use an OTP, or a Text Captcha as your multifactor authentication option. Below is a description of each:
+
+OTP: The One Time Pin will generate a phrase that you should decode/decipher. You will turn the phrase into a number.
+
+Captcha: The Captha will generate a couple of characters, mixed with some lines. These characters cannot be read by computers, although they can be read by humans. You should just retype the generated characters correctly to continue.
+
+To select the option you want to use, click on the button below the image.

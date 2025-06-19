@@ -1,0 +1,20 @@
+How to visualise and calculate your class's average:
+
+Purpose: This program is designed for teachers. It allows you to determine a class average for a test/term. 
+
+Input: Click the ‘Add learners' button. If you haven't added learners before, the computer will ask for the class name. It will also display the headings.
+If you have headings, the computer will ask you how many learners you would like to add. Then, it will ask for the learner's name, surname, and percentage. 
+
+Processing: The computer will then use a formula and add the values you entered to a stored variable.
+
+Output: The learner's name, surname, and percentage will be displayed in the rich edit. 
+
+NOTE: You need to enter the name and surname. If you do not enter the percentage for the learner, the computer will assume that the learner has 0%. You CANNOT edit learner results!
+
+If you need to add more learners to the list, click the 'Add learners' button again. This time it won't generate headings because you already have them! The computer will do the same as described above.
+
+After you have entered at least one learner's details, you can calculate the class average (click on the 'Calculate class average' button). The class average will then be displayed. To reset everything, click the reset button.
+
+Other:
+- By clicking the ‘reset' button, everything on the form will be set back to how it looked when you started. 
+- By clicking the close button, the program will close the log file, and then terminate. 

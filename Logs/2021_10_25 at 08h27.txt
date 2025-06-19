@@ -1,0 +1,71 @@
+File created 2021/10/25 at 08:27:00
+
+
+*-*-*-*-*-*-*-*-*-*-*-*-*-*
+08:27:00	frmLogin has been activated
+08:27:00	tblData activated
+08:29:25	Clicked password eye - Making it visible
+08:29:25	Changing Password char to #0
+08:29:25	CLicked password eye - Hiding it
+08:29:25	Changing Password char to *
+08:29:37	Log in button clicked
+08:29:37	Data entered:
+			Username: MolL2006ain
+			Password: BalinB@123!
+08:29:37	User input validated succesfully
+08:29:37	Username has been identified in database
+08:29:37	Password that corresponds to username is correct
+08:29:37	Showing frmVerify
+08:29:37	Hiding frmLogin 
+
+
+*-*-*-*-*-*-*-*-*-*-*-*-*-*
+08:29:37	frmVerify has been activated
+08:29:37	Changed caption of form to "Select an option to verify your identity: "
+08:29:37	Log In succesful
+08:29:40	OTP button on option form clicked
+08:29:40	Hiding pnlOption
+08:29:40	Showing pnlOTP
+08:29:40	Moving OTP panel to 0 0
+08:29:40	Changed form caption to: "OTP - Decode the phrase in panel:"
+08:29:40	Set focus on edtEnterOTP
+08:29:40	Generating OTP and Phrase
+08:29:40	Generated Phrase: RJIOQQ
+08:29:40	Generated Decoded OTP: 754677
+08:29:40	Showing Phrase to decode
+08:29:41	Go back button on OTP form clicked
+08:29:41	Showing pnlOption
+08:29:41	Hiding pnlVisible
+08:29:41	Changing form caption to: "Select an option to verify your identity"
+08:29:41	Set the pfocus on btnCaptha
+08:29:42	Captcha button on Option form clicked
+08:29:42	Hiding pnlOption
+08:29:42	Showing pnlCaptcha
+08:29:42	Moving Captcha panel to 0 0
+08:29:42	Changed form caption to: "Captcha = Regognize and rewrite the text"
+08:29:42	Clearing imgDisplayC
+08:29:42	Clearing edtEnterCaptcha
+08:29:42	Generating lines
+08:29:42	Choosing length of captcha
+08:29:42	Captcha length: 6
+08:29:42	Displaying length of captcha
+08:29:42	Determining type of characters generated
+08:29:42	Type being generated: Lowercase
+08:29:42	Displaying type
+08:29:42	Starting generation of captcha
+08:29:42	Generated Captcha: lnujhh
+08:29:42	Saving displayed captcha
+08:29:42	Displayed captcha saved as:
+			Logs\2021_10_25 at 08h27 0.png
+08:29:47	Length of Captcha entered = Lenght of generated captcha
+08:29:47	Entered captcha: lnujhh
+08:29:47	Extracted First Name from database and stored it
+08:29:47	Captcha correct. Showing message with First Name
+08:29:49	Showing frmEnd
+
+
+*-*-*-*-*-*-*-*-*-*-*-*-*-*
+08:29:49	frmEnd has been activated
+08:29:49	User Type = L
+08:29:49	User identified as Learner. User Type = L
+08:29:49	Moving Learner panel to 0 0 and Making

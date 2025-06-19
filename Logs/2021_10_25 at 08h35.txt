@@ -1,0 +1,6 @@
+File created 2021/10/25 at 08:35:25
+
+
+*-*-*-*-*-*-*-*-*-*-*-*-*-*
+08:35:25	frmLogin has been activated
+08:35:25	tblData act

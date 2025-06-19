@@ -1,0 +1,18 @@
+How to calculate your average for a subject:
+
+Purpose: This program is designed for learners. It allows you to calculate your average for a subject by entering your mark for a task, and the weight of that task. It is useful to use when some tasks you have done for a subjects contribute different weight to your final average. 
+For example: a Speech (out of 10), can count 30% of your subject average, and the test (out of 100), can count 70% of your average. 
+
+Input: This program allows you to enter 4 (four) tasks. You can enter the name of the task (optional), your mark for the task, the task's total, and the weight of the task. When you add all the weights together, it must equal 100.
+After you have entered all the details, you can click on the ‘Calculate Average' button.
+
+NOTE: You do not have to enter details for all 4 boxes/tasks. If you do not enter a total, the computer will disregard it and only use the tasks with details. 
+The Task Total is the number of possible points. Your mark cannot be higher than the task's total.
+
+Processing: The computer will use a formula to calculate your average for the subject.
+
+Output: The computer will then display the percentage you have for each task, as well as the average you will get for the subject. The average for the subject is rounded (as it will be rounded on your report card).
+
+Other:
+- By clicking the ‘reset' button, everything on the form will be set back to how it looked when you started. 
+- By clicking the close button, the program will close the log file, and then terminate. 

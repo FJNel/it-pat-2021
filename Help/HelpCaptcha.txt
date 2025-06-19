@@ -1,0 +1,18 @@
+How to verify that you are human by using a Text Captcha:
+
+Description: Even though this captcha isn't as fancy as the recent ones where you should just tick a checkbox, it still does an amazing job at verifying that you are human.
+With this Captcha a couple of characters will be generated. They will be mixed with some lines. These characters cannot be read by computers, but they can be read by humans. You should just retype the generated characters correctly to continue.
+
+Purpose: The Captcha verifies that you are human
+
+To make it difficult for a computer/robot to recognize the generated characters, the characters are slightly rotated, their size vary, and the distance between characters are random. There're also lines that are the same colour as the text, to make it even more difficult for a robot/computer to recognize the characters.
+
+In the bottom left of the program window, more information about the captcha will be displayed. It will show whether it consists of only Uppercase or Lowercase letters. It will also show the length of the captcha.
+
+You should simply retype the captcha shown correctly into the edit box, to verify that you are human. 
+
+If you struggle to see the Captcha clearly, you can press 'Reset' to generate a new Captcha.
+
+If you press the 'Go Back' button, you will be taken back so that you can reselect an option to verify yourself.
+
+All the characters that you use should be the characters that the computer specifies in the bottom left of your screen (ex. Capital Letters or Lowercase letters)

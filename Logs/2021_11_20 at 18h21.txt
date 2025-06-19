@@ -1,0 +1,103 @@
+File created 2021/11/20 at 18:21:00
+
+
+*-*-*-*-*-*-*-*-*-*-*-*-*-*
+18:21:00	frmLogin has been activated
+18:21:00	tblData activated
+18:21:20	Clicked password eye - Making it visible
+18:21:20	Changing Password char to #0
+18:21:24	CLicked password eye - Hiding it
+18:21:24	Changing Password char to *
+18:21:25	Help button on Login form clicked
+18:21:25	Creating Help message
+18:21:25	Showing Help message
+18:21:37	Closing help text file
+18:21:38	Clicked password eye - Making it visible
+18:21:38	Changing Password char to #0
+18:21:39	CLicked password eye - Hiding it
+18:21:39	Changing Password char to *
+18:21:39	Log in button clicked
+18:21:39	Data entered:
+			Username: JohA2005Nel
+			Password: H3llo@World!
+18:21:39	User input validated succesfully
+18:21:39	Username has been identified in database
+18:21:39	Password that corresponds to username is correct
+18:21:39	Showing frmVerify
+18:21:39	Hiding frmLogin 
+
+
+*-*-*-*-*-*-*-*-*-*-*-*-*-*
+18:21:39	frmVerify has been activated
+18:21:39	Changed caption of form to "Select an option to verify your identity: "
+18:21:39	Log In succesful
+18:21:46	User identified as admin
+18:21:46	Asked if they would like to bypass 2FA. Answer: N
+18:21:48	Captcha button on Option form clicked
+18:21:48	Hiding pnlOption
+18:21:48	Showing pnlCaptcha
+18:21:48	Moving Captcha panel to 0 0
+18:21:48	Changed form caption to: "Captcha = Regognize and rewrite the text"
+18:21:48	Clearing imgDisplayC
+18:21:48	Clearing edtEnterCaptcha
+18:21:48	Generating lines
+18:21:48	Choosing length of captcha
+18:21:48	Captcha length: 7
+18:21:48	Displaying length of captcha
+18:21:48	Determining type of characters generated
+18:21:48	Type being generated: Uppercase
+18:21:48	Displaying type
+18:21:48	Starting generation of captcha
+18:21:48	Generated Captcha: LDFGEEW
+18:21:48	Saving displayed captcha
+18:21:48	Displayed captcha saved as:
+			Logs\2021_11_20 at 18h21 0.png
+18:21:51	Captcha Reset button clicked
+18:21:51	Clearing imgDisplayC
+18:21:51	Clearing edtEnterCaptcha
+18:21:51	Clearing imgDisplayC
+18:21:51	Clearing edtEnterCaptcha
+18:21:51	Generating lines
+18:21:51	Choosing length of captcha
+18:21:51	Captcha length: 6
+18:21:51	Displaying length of captcha
+18:21:51	Determining type of characters generated
+18:21:51	Type being generated: Lowercase
+18:21:51	Displaying type
+18:21:51	Starting generation of captcha
+18:21:51	Generated Captcha: ljhsea
+18:21:51	Saving displayed captcha
+18:21:51	Displayed captcha saved as:
+			Logs\2021_11_20 at 18h21 1.png
+18:21:52	Captcha Reset button clicked
+18:21:52	Clearing imgDisplayC
+18:21:52	Clearing edtEnterCaptcha
+18:21:52	Clearing imgDisplayC
+18:21:52	Clearing edtEnterCaptcha
+18:21:52	Generating lines
+18:21:52	Choosing length of captcha
+18:21:52	Captcha length: 8
+18:21:52	Displaying length of captcha
+18:21:52	Determining type of characters generated
+18:21:52	Type being generated: Uppercase
+18:21:52	Displaying type
+18:21:52	Starting generation of captcha
+18:21:52	Generated Captcha: DEGIIONP
+18:21:52	Saving displayed captcha
+18:21:52	Displayed captcha saved as:
+			Logs\2021_11_20 at 18h21 2.png
+18:22:07	Error: User enterred a an invalid character (not an uppercase letter)
+18:22:10	Deleting character
+18:22:10	Character deleted. Focus set
+18:22:20	Length of Captcha entered = Lenght of generated captcha
+18:22:20	Entered captcha: DEGIIONP
+18:22:20	Extracted First Name from database and stored it
+18:22:20	Captcha correct. Showing message with First Name
+18:22:21	Showing frmEnd
+
+
+*-*-*-*-*-*-*-*-*-*-*-*-*-*
+18:22:22	frmEnd has been activated
+18:22:22	User Type = A
+18:22:22	User identified as Admin. User Type = A
+18:22:22	Moving Admin panel t

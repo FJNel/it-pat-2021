@@ -1,0 +1,13 @@
+How to log in to your school account:
+
+Function: The purpose of this form is to allow you to log in by using the username that the computer generated and the password you entered when you created an account.
+
+Input: Enter your username into the username edit box, and your password into the password, edit box. When you entered both, click Log In.
+
+Processing: The computer will check if your username and password is valid.
+
+Output: If your username is valid, you will be taken to the multifactor authentication form. Otherwise, you'll get an error message.
+
+Other:
+- Eye icon next to the password edit box: When clicking on this eye, the password in the edit box will either become visible (if it isn't visible) or be hidden (if it is visible).
+- Register here button: This button takes you to the register form where you can register an account if you do not have one. If you need help with account creation, press the 'Help' button on that form.

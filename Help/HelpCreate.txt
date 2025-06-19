@@ -1,0 +1,14 @@
+How to create a school account:
+
+Purpose: This form will be used to create a new account if you have not done so already. 
+
+Input: Enter your First Name in the First Name edit box, and Last Name in the Last Name edit box. Enter your birthdate using the Date-Time Picker. 
+Select your user type. Learners should select Learner and Teachers should select Teacher.
+Enter your password in the password edit box. Your password must be either Medium or High strength, and it cannot contain a space. The strength is displayed below the area where you enter your password. For more information on password strength, click on 'Password Strength Info'. Click the 'Register New account' button when you entered all the information
+
+Processing: After the computer validated your input, it will create a username for you. This username and the password you entered will be used to log in. 
+
+Output: Your username and password will be displayed with a dialog box. You will also be taken to the Log in form to so that you can log in.
+
+Other:
+- Eye icon next to the password edit box: When clicking on this eye, the password in the edit box will either become visible (if it isn't visible) or be hidden (if it is visible).

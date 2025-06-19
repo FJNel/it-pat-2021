@@ -1,0 +1,765 @@
+File created 2023/07/08 at 13:19:14
+
+
+*-*-*-*-*-*-*-*-*-*-*-*-*-*
+13:19:14	frmLogin has been activated
+13:19:14	tblData activated
+13:19:20	Help button on Login form clicked
+13:19:20	Creating Help message
+13:19:20	Showing Help message
+13:19:26	Closing help text file
+13:19:26	Register now button clicked - Taking to register form
+13:19:26	Hiding log in panel
+13:19:26	Showing register panel
+13:19:26	Caption of form changed to "Create your school account:"
+13:19:26	Updated DTP date to todays date
+13:19:36	
+13:19:36	+-+-+-+-+-+-+-+-+-+
+13:19:36	User enterred a char into password edit box
+13:19:36	Testing password strength
+13:19:36	Password enterred so far: 
+13:19:36	Number of grouped characters 
+			Lower case: 0
+			Upper case: 0
+			Special: 0
+			Number: 0
+			Spaces: 0
+13:19:36	Password strengh low
+13:19:36	Changing label color to red
+13:19:36	User cannot register: bEnterPW = False
+13:19:36	Showing strength
+13:19:36	Nothing enterred yet - Waiting for password: EnterPW = False
+13:19:36	Changing label color to gray
+13:19:36	+-+-+-+-+-+-+-+-+-+
+13:19:36	
+13:19:39	
+13:19:39	+-+-+-+-+-+-+-+-+-+
+13:19:39	User enterred a char into password edit box
+13:19:39	Testing password strength
+13:19:39	Password enterred so far: H
+13:19:39	Number of grouped characters 
+			Lower case: 0
+			Upper case: 1
+			Special: 0
+			Number: 0
+			Spaces: 0
+13:19:39	Password strengh low
+13:19:39	Changing label color to red
+13:19:39	User cannot register: bEnterPW = False
+13:19:39	Showing strength
+13:19:39	+-+-+-+-+-+-+-+-+-+
+13:19:39	
+13:19:39	
+13:19:39	+-+-+-+-+-+-+-+-+-+
+13:19:39	User enterred a char into password edit box
+13:19:39	Testing password strength
+13:19:39	Password enterred so far: H
+13:19:39	Number of grouped characters 
+			Lower case: 0
+			Upper case: 1
+			Special: 0
+			Number: 0
+			Spaces: 0
+13:19:39	Password strengh low
+13:19:39	Changing label color to red
+13:19:39	User cannot register: bEnterPW = False
+13:19:39	Showing strength
+13:19:39	+-+-+-+-+-+-+-+-+-+
+13:19:39	
+13:19:39	
+13:19:39	+-+-+-+-+-+-+-+-+-+
+13:19:39	User enterred a char into password edit box
+13:19:39	Testing password strength
+13:19:39	Password enterred so far: He
+13:19:39	Number of grouped characters 
+			Lower case: 1
+			Upper case: 1
+			Special: 0
+			Number: 0
+			Spaces: 0
+13:19:39	Password strengh low
+13:19:39	Changing label color to red
+13:19:39	User cannot register: bEnterPW = False
+13:19:39	Showing strength
+13:19:39	+-+-+-+-+-+-+-+-+-+
+13:19:39	
+13:19:39	
+13:19:39	+-+-+-+-+-+-+-+-+-+
+13:19:39	User enterred a char into password edit box
+13:19:39	Testing password strength
+13:19:39	Password enterred so far: Hel
+13:19:39	Number of grouped characters 
+			Lower case: 2
+			Upper case: 1
+			Special: 0
+			Number: 0
+			Spaces: 0
+13:19:39	Password strengh low
+13:19:39	Changing label color to red
+13:19:39	User cannot register: bEnterPW = False
+13:19:39	Showing strength
+13:19:39	+-+-+-+-+-+-+-+-+-+
+13:19:39	
+13:19:40	
+13:19:40	+-+-+-+-+-+-+-+-+-+
+13:19:40	User enterred a char into password edit box
+13:19:40	Testing password strength
+13:19:40	Password enterred so far: Hell
+13:19:40	Number of grouped characters 
+			Lower case: 3
+			Upper case: 1
+			Special: 0
+			Number: 0
+			Spaces: 0
+13:19:40	Password strengh low
+13:19:40	Changing label color to red
+13:19:40	User cannot register: bEnterPW = False
+13:19:40	Showing strength
+13:19:40	+-+-+-+-+-+-+-+-+-+
+13:19:40	
+13:19:40	
+13:19:40	+-+-+-+-+-+-+-+-+-+
+13:19:40	User enterred a char into password edit box
+13:19:40	Testing password strength
+13:19:40	Password enterred so far: Hello
+13:19:40	Number of grouped characters 
+			Lower case: 4
+			Upper case: 1
+			Special: 0
+			Number: 0
+			Spaces: 0
+13:19:40	Password strengh low
+13:19:40	Changing label color to red
+13:19:40	User cannot register: bEnterPW = False
+13:19:40	Showing strength
+13:19:40	+-+-+-+-+-+-+-+-+-+
+13:19:40	
+13:19:41	
+13:19:41	+-+-+-+-+-+-+-+-+-+
+13:19:41	User enterred a char into password edit box
+13:19:41	Testing password strength
+13:19:41	Password enterred so far: 
+13:19:41	Number of grouped characters 
+			Lower case: 0
+			Upper case: 0
+			Special: 0
+			Number: 0
+			Spaces: 0
+13:19:41	Password strengh low
+13:19:41	Changing label color to red
+13:19:41	User cannot register: bEnterPW = False
+13:19:41	Showing strength
+13:19:41	Nothing enterred yet - Waiting for password: EnterPW = False
+13:19:41	Changing label color to gray
+13:19:41	+-+-+-+-+-+-+-+-+-+
+13:19:41	
+13:20:10	
+13:20:10	+-+-+-+-+-+-+-+-+-+
+13:20:10	User enterred a char into password edit box
+13:20:10	Testing password strength
+13:20:10	Password enterred so far: A
+13:20:10	Number of grouped characters 
+			Lower case: 0
+			Upper case: 1
+			Special: 0
+			Number: 0
+			Spaces: 0
+13:20:10	Password strengh low
+13:20:10	Changing label color to red
+13:20:10	User cannot register: bEnterPW = False
+13:20:10	Showing strength
+13:20:10	+-+-+-+-+-+-+-+-+-+
+13:20:10	
+13:20:10	
+13:20:10	+-+-+-+-+-+-+-+-+-+
+13:20:10	User enterred a char into password edit box
+13:20:10	Testing password strength
+13:20:10	Password enterred so far: A
+13:20:10	Number of grouped characters 
+			Lower case: 0
+			Upper case: 1
+			Special: 0
+			Number: 0
+			Spaces: 0
+13:20:10	Password strengh low
+13:20:10	Changing label color to red
+13:20:10	User cannot register: bEnterPW = False
+13:20:10	Showing strength
+13:20:10	+-+-+-+-+-+-+-+-+-+
+13:20:10	
+13:20:10	
+13:20:10	+-+-+-+-+-+-+-+-+-+
+13:20:10	User enterred a char into password edit box
+13:20:10	Testing password strength
+13:20:10	Password enterred so far: An
+13:20:10	Number of grouped characters 
+			Lower case: 1
+			Upper case: 1
+			Special: 0
+			Number: 0
+			Spaces: 0
+13:20:10	Password strengh low
+13:20:10	Changing label color to red
+13:20:10	User cannot register: bEnterPW = False
+13:20:10	Showing strength
+13:20:10	+-+-+-+-+-+-+-+-+-+
+13:20:10	
+13:20:10	
+13:20:10	+-+-+-+-+-+-+-+-+-+
+13:20:10	User enterred a char into password edit box
+13:20:10	Testing password strength
+13:20:10	Password enterred so far: Ana
+13:20:10	Number of grouped characters 
+			Lower case: 2
+			Upper case: 1
+			Special: 0
+			Number: 0
+			Spaces: 0
+13:20:10	Password strengh low
+13:20:10	Changing label color to red
+13:20:10	User cannot register: bEnterPW = False
+13:20:10	Showing strength
+13:20:10	+-+-+-+-+-+-+-+-+-+
+13:20:10	
+13:20:11	
+13:20:11	+-+-+-+-+-+-+-+-+-+
+13:20:11	User enterred a char into password edit box
+13:20:11	Testing password strength
+13:20:11	Password enterred so far: Anar
+13:20:11	Number of grouped characters 
+			Lower case: 3
+			Upper case: 1
+			Special: 0
+			Number: 0
+			Spaces: 0
+13:20:11	Password strengh low
+13:20:11	Changing label color to red
+13:20:11	User cannot register: bEnterPW = False
+13:20:11	Showing strength
+13:20:11	+-+-+-+-+-+-+-+-+-+
+13:20:11	
+13:20:11	
+13:20:11	+-+-+-+-+-+-+-+-+-+
+13:20:11	User enterred a char into password edit box
+13:20:11	Testing password strength
+13:20:11	Password enterred so far: 
+13:20:11	Number of grouped characters 
+			Lower case: 0
+			Upper case: 0
+			Special: 0
+			Number: 0
+			Spaces: 0
+13:20:11	Password strengh low
+13:20:11	Changing label color to red
+13:20:11	User cannot register: bEnterPW = False
+13:20:11	Showing strength
+13:20:11	Nothing enterred yet - Waiting for password: EnterPW = False
+13:20:11	Changing label color to gray
+13:20:11	+-+-+-+-+-+-+-+-+-+
+13:20:11	
+13:20:12	
+13:20:12	+-+-+-+-+-+-+-+-+-+
+13:20:12	User enterred a char into password edit box
+13:20:12	Testing password strength
+13:20:12	Password enterred so far: H
+13:20:12	Number of grouped characters 
+			Lower case: 0
+			Upper case: 1
+			Special: 0
+			Number: 0
+			Spaces: 0
+13:20:12	Password strengh low
+13:20:12	Changing label color to red
+13:20:12	User cannot register: bEnterPW = False
+13:20:12	Showing strength
+13:20:12	+-+-+-+-+-+-+-+-+-+
+13:20:12	
+13:20:12	
+13:20:12	+-+-+-+-+-+-+-+-+-+
+13:20:12	User enterred a char into password edit box
+13:20:12	Testing password strength
+13:20:12	Password enterred so far: H
+13:20:12	Number of grouped characters 
+			Lower case: 0
+			Upper case: 1
+			Special: 0
+			Number: 0
+			Spaces: 0
+13:20:12	Password strengh low
+13:20:12	Changing label color to red
+13:20:12	User cannot register: bEnterPW = False
+13:20:12	Showing strength
+13:20:12	+-+-+-+-+-+-+-+-+-+
+13:20:12	
+13:20:12	
+13:20:12	+-+-+-+-+-+-+-+-+-+
+13:20:12	User enterred a char into password edit box
+13:20:12	Testing password strength
+13:20:12	Password enterred so far: He
+13:20:12	Number of grouped characters 
+			Lower case: 1
+			Upper case: 1
+			Special: 0
+			Number: 0
+			Spaces: 0
+13:20:12	Password strengh low
+13:20:12	Changing label color to red
+13:20:12	User cannot register: bEnterPW = False
+13:20:12	Showing strength
+13:20:12	+-+-+-+-+-+-+-+-+-+
+13:20:12	
+13:20:13	
+13:20:13	+-+-+-+-+-+-+-+-+-+
+13:20:13	User enterred a char into password edit box
+13:20:13	Testing password strength
+13:20:13	Password enterred so far: Hel
+13:20:13	Number of grouped characters 
+			Lower case: 2
+			Upper case: 1
+			Special: 0
+			Number: 0
+			Spaces: 0
+13:20:13	Password strengh low
+13:20:13	Changing label color to red
+13:20:13	User cannot register: bEnterPW = False
+13:20:13	Showing strength
+13:20:13	+-+-+-+-+-+-+-+-+-+
+13:20:13	
+13:20:13	
+13:20:13	+-+-+-+-+-+-+-+-+-+
+13:20:13	User enterred a char into password edit box
+13:20:13	Testing password strength
+13:20:13	Password enterred so far: Hell
+13:20:13	Number of grouped characters 
+			Lower case: 3
+			Upper case: 1
+			Special: 0
+			Number: 0
+			Spaces: 0
+13:20:13	Password strengh low
+13:20:13	Changing label color to red
+13:20:13	User cannot register: bEnterPW = False
+13:20:13	Showing strength
+13:20:13	+-+-+-+-+-+-+-+-+-+
+13:20:13	
+13:20:13	
+13:20:13	+-+-+-+-+-+-+-+-+-+
+13:20:13	User enterred a char into password edit box
+13:20:13	Testing password strength
+13:20:13	Password enterred so far: Hello
+13:20:13	Number of grouped characters 
+			Lower case: 4
+			Upper case: 1
+			Special: 0
+			Number: 0
+			Spaces: 0
+13:20:13	Password strengh low
+13:20:13	Changing label color to red
+13:20:13	User cannot register: bEnterPW = False
+13:20:13	Showing strength
+13:20:13	+-+-+-+-+-+-+-+-+-+
+13:20:13	
+13:20:14	
+13:20:14	+-+-+-+-+-+-+-+-+-+
+13:20:14	User enterred a char into password edit box
+13:20:14	Testing password strength
+13:20:14	Password enterred so far: Hello@
+13:20:14	Number of grouped characters 
+			Lower case: 4
+			Upper case: 1
+			Special: 1
+			Number: 0
+			Spaces: 0
+13:20:14	Password strengh low
+13:20:14	Changing label color to red
+13:20:14	User cannot register: bEnterPW = False
+13:20:14	Showing strength
+13:20:14	+-+-+-+-+-+-+-+-+-+
+13:20:14	
+13:20:14	
+13:20:14	+-+-+-+-+-+-+-+-+-+
+13:20:14	User enterred a char into password edit box
+13:20:14	Testing password strength
+13:20:14	Password enterred so far: Hello@
+13:20:14	Number of grouped characters 
+			Lower case: 4
+			Upper case: 1
+			Special: 1
+			Number: 0
+			Spaces: 0
+13:20:14	Password strengh low
+13:20:14	Changing label color to red
+13:20:14	User cannot register: bEnterPW = False
+13:20:14	Showing strength
+13:20:14	+-+-+-+-+-+-+-+-+-+
+13:20:14	
+13:20:14	
+13:20:14	+-+-+-+-+-+-+-+-+-+
+13:20:14	User enterred a char into password edit box
+13:20:14	Testing password strength
+13:20:14	Password enterred so far: Hello@1
+13:20:14	Number of grouped characters 
+			Lower case: 4
+			Upper case: 1
+			Special: 1
+			Number: 1
+			Spaces: 0
+13:20:14	Password strengh low
+13:20:14	Changing label color to red
+13:20:14	User cannot register: bEnterPW = False
+13:20:14	Showing strength
+13:20:14	+-+-+-+-+-+-+-+-+-+
+13:20:14	
+13:20:14	
+13:20:14	+-+-+-+-+-+-+-+-+-+
+13:20:14	User enterred a char into password edit box
+13:20:14	Testing password strength
+13:20:14	Password enterred so far: Hello@12
+13:20:14	Number of grouped characters 
+			Lower case: 4
+			Upper case: 1
+			Special: 1
+			Number: 2
+			Spaces: 0
+13:20:14	Password strengh low
+13:20:14	Changing label color to red
+13:20:14	User cannot register: bEnterPW = False
+13:20:14	Showing strength
+13:20:14	+-+-+-+-+-+-+-+-+-+
+13:20:14	
+13:20:15	
+13:20:15	+-+-+-+-+-+-+-+-+-+
+13:20:15	User enterred a char into password edit box
+13:20:15	Testing password strength
+13:20:15	Password enterred so far: Hello@123
+13:20:15	Number of grouped characters 
+			Lower case: 4
+			Upper case: 1
+			Special: 1
+			Number: 3
+			Spaces: 0
+13:20:15	Password strengh low
+13:20:15	Changing label color to red
+13:20:15	User cannot register: bEnterPW = False
+13:20:15	Showing strength
+13:20:15	+-+-+-+-+-+-+-+-+-+
+13:20:15	
+13:20:16	
+13:20:16	+-+-+-+-+-+-+-+-+-+
+13:20:16	User enterred a char into password edit box
+13:20:16	Testing password strength
+13:20:16	Password enterred so far: Hello@123!
+13:20:16	Number of grouped characters 
+			Lower case: 4
+			Upper case: 1
+			Special: 2
+			Number: 3
+			Spaces: 0
+13:20:16	Password strengh low
+13:20:16	Changing label color to red
+13:20:16	User cannot register: bEnterPW = False
+13:20:16	Showing strength
+13:20:16	+-+-+-+-+-+-+-+-+-+
+13:20:16	
+13:20:16	
+13:20:16	+-+-+-+-+-+-+-+-+-+
+13:20:16	User enterred a char into password edit box
+13:20:16	Testing password strength
+13:20:16	Password enterred so far: Hello@123!!
+13:20:16	Number of grouped characters 
+			Lower case: 4
+			Upper case: 1
+			Special: 3
+			Number: 3
+			Spaces: 0
+13:20:16	Password strengh low
+13:20:16	Changing label color to red
+13:20:16	User cannot register: bEnterPW = False
+13:20:16	Showing strength
+13:20:16	+-+-+-+-+-+-+-+-+-+
+13:20:16	
+13:20:17	
+13:20:17	+-+-+-+-+-+-+-+-+-+
+13:20:17	User enterred a char into password edit box
+13:20:17	Testing password strength
+13:20:17	Password enterred so far: Hello@123!!!
+13:20:17	Number of grouped characters 
+			Lower case: 4
+			Upper case: 1
+			Special: 4
+			Number: 3
+			Spaces: 0
+13:20:17	Password strengh low
+13:20:17	Changing label color to red
+13:20:17	User cannot register: bEnterPW = False
+13:20:17	Showing strength
+13:20:17	+-+-+-+-+-+-+-+-+-+
+13:20:17	
+13:20:17	
+13:20:17	+-+-+-+-+-+-+-+-+-+
+13:20:17	User enterred a char into password edit box
+13:20:17	Testing password strength
+13:20:17	Password enterred so far: Hello@123!!!
+13:20:17	Number of grouped characters 
+			Lower case: 4
+			Upper case: 1
+			Special: 4
+			Number: 3
+			Spaces: 0
+13:20:17	Password strengh low
+13:20:17	Changing label color to red
+13:20:17	User cannot register: bEnterPW = False
+13:20:17	Showing strength
+13:20:17	+-+-+-+-+-+-+-+-+-+
+13:20:17	
+13:20:19	
+13:20:19	+-+-+-+-+-+-+-+-+-+
+13:20:19	User enterred a char into password edit box
+13:20:19	Testing password strength
+13:20:19	Password enterred so far: Hello@123!!!J
+13:20:19	Number of grouped characters 
+			Lower case: 4
+			Upper case: 2
+			Special: 4
+			Number: 3
+			Spaces: 0
+13:20:19	Password strength high
+13:20:19	Changin label color to green
+13:20:19	User can now register: bEnterPW = True
+13:20:19	Showing strength
+13:20:19	+-+-+-+-+-+-+-+-+-+
+13:20:19	
+13:20:19	
+13:20:19	+-+-+-+-+-+-+-+-+-+
+13:20:19	User enterred a char into password edit box
+13:20:19	Testing password strength
+13:20:19	Password enterred so far: Hello@123!!!J
+13:20:19	Number of grouped characters 
+			Lower case: 4
+			Upper case: 2
+			Special: 4
+			Number: 3
+			Spaces: 0
+13:20:19	Password strength high
+13:20:19	Changin label color to green
+13:20:19	User can now register: bEnterPW = True
+13:20:19	Showing strength
+13:20:19	+-+-+-+-+-+-+-+-+-+
+13:20:19	
+13:23:49	Clicked password eye - Making it visible
+13:23:49	Changing Password char to #0
+13:23:52	
+13:23:52	+-+-+-+-+-+-+-+-+-+
+13:23:52	User enterred a char into password edit box
+13:23:52	Testing password strength
+13:23:52	Password enterred so far: Hello@123!!!J
+13:23:52	Number of grouped characters 
+			Lower case: 4
+			Upper case: 2
+			Special: 4
+			Number: 3
+			Spaces: 0
+13:23:52	Password strength high
+13:23:52	Changin label color to green
+13:23:52	User can now register: bEnterPW = True
+13:23:52	Showing strength
+13:23:52	+-+-+-+-+-+-+-+-+-+
+13:23:52	
+13:23:52	
+13:23:52	+-+-+-+-+-+-+-+-+-+
+13:23:52	User enterred a char into password edit box
+13:23:52	Testing password strength
+13:23:52	Password enterred so far: Hello@123!!!J
+13:23:52	Number of grouped characters 
+			Lower case: 4
+			Upper case: 2
+			Special: 4
+			Number: 3
+			Spaces: 0
+13:23:52	Password strength high
+13:23:52	Changin label color to green
+13:23:52	User can now register: bEnterPW = True
+13:23:52	Showing strength
+13:23:52	+-+-+-+-+-+-+-+-+-+
+13:23:52	
+13:24:06	
+13:24:06	+-+-+-+-+-+-+-+-+-+
+13:24:06	User enterred a char into password edit box
+13:24:06	Testing password strength
+13:24:06	Password enterred so far: Hello@123!!!J
+13:24:06	Number of grouped characters 
+			Lower case: 4
+			Upper case: 2
+			Special: 4
+			Number: 3
+			Spaces: 0
+13:24:06	Password strength high
+13:24:06	Changin label color to green
+13:24:06	User can now register: bEnterPW = True
+13:24:06	Showing strength
+13:24:06	+-+-+-+-+-+-+-+-+-+
+13:24:06	
+13:24:06	
+13:24:06	+-+-+-+-+-+-+-+-+-+
+13:24:06	User enterred a char into password edit box
+13:24:06	Testing password strength
+13:24:06	Password enterred so far: Hello@123!!!J
+13:24:06	Number of grouped characters 
+			Lower case: 4
+			Upper case: 2
+			Special: 4
+			Number: 3
+			Spaces: 0
+13:24:06	Password strength high
+13:24:06	Changin label color to green
+13:24:06	User can now register: bEnterPW = True
+13:24:06	Showing strength
+13:24:06	+-+-+-+-+-+-+-+-+-+
+13:24:06	
+13:24:07	Password info button on Register form clicked
+13:24:07	Creating message to display
+13:24:07	Showing message
+13:24:27	Closing text file
+13:24:28	Register new account button clicked
+13:24:28	Data entered:
+			Username: Johan
+			First Name: Johan
+			Last Name: Nel
+			Birt date: 2005/07/14
+			Password: Hello@123!!!J
+			User type: Learner
+13:24:28	User input validated succesfully
+13:24:28	Inputting data from user
+13:24:28	cUserType: L
+13:24:28	Age calculated: 17
+13:24:28	Starting to register user information into database
+13:24:28	Posted user info succesfully into database
+13:24:35	Showed welcome message
+13:24:35	CLicked password eye - Hiding it
+13:24:35	Changing Password char to *
+13:24:35	Register sussesful - Taking to log in panel
+13:24:35	Hiding Register panel
+13:24:35	Showing Log in panel
+13:24:35	Changing form caption to "Log into your school account: "
+13:24:43	Log in button clicked
+13:24:43	Data entered:
+			Username: Johan
+			Password: Hello@123!!!J
+13:24:43	User input validated succesfully
+13:24:43	Username has been identified in database
+13:24:43	Password that corresponds to username is correct
+13:24:43	Showing frmVerify
+13:24:43	Hiding frmLogin 
+
+
+*-*-*-*-*-*-*-*-*-*-*-*-*-*
+13:24:43	frmVerify has been activated
+13:24:43	Changed caption of form to "Select an option to verify your identity: "
+13:24:43	Log In succesful
+13:24:54	OTP button on option form clicked
+13:24:54	Hiding pnlOption
+13:24:54	Showing pnlOTP
+13:24:54	Moving OTP panel to 0 0
+13:24:54	Changed form caption to: "OTP - Decode the phrase in panel:"
+13:24:54	Set focus on edtEnterOTP
+13:24:54	Generating OTP and Phrase
+13:24:54	Generated Phrase: NBDULT
+13:24:54	Generated Decoded OTP: 623858
+13:24:54	Showing Phrase to decode
+13:25:25	Go back button on OTP form clicked
+13:25:25	Showing pnlOption
+13:25:25	Hiding pnlVisible
+13:25:25	Changing form caption to: "Select an option to verify your identity"
+13:25:25	Set the pfocus on btnCaptha
+13:25:26	Captcha button on Option form clicked
+13:25:26	Hiding pnlOption
+13:25:26	Showing pnlCaptcha
+13:25:26	Moving Captcha panel to 0 0
+13:25:26	Changed form caption to: "Captcha = Regognize and rewrite the text"
+13:25:26	Clearing imgDisplayC
+13:25:26	Clearing edtEnterCaptcha
+13:25:26	Generating lines
+13:25:26	Choosing length of captcha
+13:25:26	Captcha length: 8
+13:25:26	Displaying length of captcha
+13:25:26	Determining type of characters generated
+13:25:26	Type being generated: Uppercase
+13:25:26	Displaying type
+13:25:26	Starting generation of captcha
+13:25:26	Generated Captcha: SMOMDDKT
+13:25:26	Saving displayed captcha
+13:25:26	Displayed captcha saved as:
+			Logs\2023_07_08 at 13h19 0.png
+13:25:32	Error: User enterred a an invalid character (not an uppercase letter)
+13:25:36	Deleting character
+13:25:36	Character deleted. Focus set
+13:25:44	Length of Captcha entered = Lenght of generated captcha
+13:25:44	Entered captcha: SMOMDDKI
+13:25:44	Entered captcha isn't correct. Showing message
+13:25:46	Length of Captcha entered = Lenght of generated captcha
+13:25:46	Entered captcha: SMOMDDKI
+13:25:46	Entered captcha isn't correct. Showing message
+13:25:48	Length of Captcha entered = Lenght of generated captcha
+13:25:48	Entered captcha: SMOMDDKI
+13:25:48	Entered captcha isn't correct. Showing message
+13:25:48	Length of Captcha entered = Lenght of generated captcha
+13:25:48	Entered captcha: SMOMDDKI
+13:25:48	Entered captcha isn't correct. Showing message
+13:25:52	Length of Captcha entered = Lenght of generated captcha
+13:25:52	Entered captcha: SMOMDDKT
+13:25:52	Extracted First Name from database and stored it
+13:25:52	Captcha correct. Showing message with First Name
+13:25:56	Showing frmEnd
+
+
+*-*-*-*-*-*-*-*-*-*-*-*-*-*
+13:25:56	frmEnd has been activated
+13:25:56	User Type = L
+13:25:56	User identified as Learner. User Type = L
+13:25:56	Moving Learner panel to 0 0 and Making it visible
+13:25:56	Hiding frmVerify
+13:26:00	Help button on Teacher form clicked
+13:26:00	Creating Help message
+13:26:00	Showing Help message
+13:26:57	Closing help text file
+13:27:15	Calculate average button clicked
+13:27:17	Subject entered: IT
+13:27:17	Input from user:
+			Task 1 Name: Test
+			Task 1 Mark: 15
+			Task 1 Total: 15
+			Task 1 Weight: 9
+			Task 2 Name: 
+			Task 2 Mark: 0
+			Task 2 Total: 0
+			Task 2 Weight: 0
+			Task 3 Name: 
+			Task 3 Mark: 0
+			Task 3 Total: 0
+			Task 3 Weight: 0
+			Task 4 Name: 
+			Task 4 Mark: 0
+			Task 4 Total: 0
+			Task 4 Weight: 0
+13:27:17	Task 1 Pecentage: 100.00%
+13:27:26	Error: Total weight not 100%. Total weight is: 9%.
+13:27:32	Calculate average button clicked
+13:27:34	Subject entered: IT
+13:27:34	Input from user:
+			Task 1 Name: Test
+			Task 1 Mark: 15
+			Task 1 Total: 15
+			Task 1 Weight: 100
+			Task 2 Name: 
+			Task 2 Mark: 0
+			Task 2 Total: 0
+			Task 2 Weight: 0
+			Task 3 Name: 
+			Task 3 Mark: 0
+			Task 3 Total: 0
+			Task 3 Weight: 0
+			Task 4 Name: 
+			Task 4 Mark: 0
+			Task 4 Total: 0
+			Task 4 Weight: 0
+13:27:34	Task 1 Pecenta

@@ -1,0 +1,114 @@
+File created 2022/01/10 at 15:22:40
+
+
+*-*-*-*-*-*-*-*-*-*-*-*-*-*
+15:22:40	frmLogin has been activated
+15:22:40	tblData activated
+15:22:43	Register now button clicked - Taking to register form
+15:22:43	Hiding log in panel
+15:22:43	Showing register panel
+15:22:43	Caption of form changed to "Create your school account:"
+15:22:43	Updated DTP date to todays date
+15:22:51	Register new account button clicked
+15:22:51	Data entered:
+			Username: 
+			First Name: 
+			Last Name: 
+			Birt date: 2022/01/10
+			Password: 
+			User type: None selected
+15:22:54	Error: No Username entered
+15:22:54	User clicked Go Back button on register panel
+15:22:54	Showing login form
+15:22:54	Hiding register form
+15:22:54	Changing caption of form to: "Log into your school account: "
+15:22:56	Clicked password eye - Making it visible
+15:22:56	Changing Password char to #0
+15:22:57	CLicked password eye - Hiding it
+15:22:57	Changing Password char to *
+15:22:58	Log in button clicked
+15:22:58	Data entered:
+			Username: 
+			Password: 
+15:22:59	Error: No Username entered
+15:23:00	Register now button clicked - Taking to register form
+15:23:00	Hiding log in panel
+15:23:00	Showing register panel
+15:23:00	Caption of form changed to "Create your school account:"
+15:23:00	Updated DTP date to todays date
+15:23:04	Help button on Register form clicked
+15:23:04	Creating Help message
+15:23:04	Showing Help message
+15:23:53	Closing help text file
+15:23:59	User clicked Go Back button on register panel
+15:23:59	Showing login form
+15:23:59	Hiding register form
+15:23:59	Changing caption of form to: "Log into your school account: "
+15:23:59	Register now button clicked - Taking to register form
+15:23:59	Hiding log in panel
+15:23:59	Showing register panel
+15:24:00	Caption of form changed to "Create your school account:"
+15:24:00	Updated DTP date to todays date
+15:24:00	User clicked Go Back button on register panel
+15:24:00	Showing login form
+15:24:00	Hiding register form
+15:24:00	Changing caption of form to: "Log into your school account: "
+15:24:01	Register now button clicked - Taking to register form
+15:24:01	Hiding log in panel
+15:24:01	Showing register panel
+15:24:01	Caption of form changed to "Create your school account:"
+15:24:01	Updated DTP date to todays date
+15:24:01	User clicked Go Back button on register panel
+15:24:01	Showing login form
+15:24:01	Hiding register form
+15:24:01	Changing caption of form to: "Log into your school account: "
+15:24:02	Register now button clicked - Taking to register form
+15:24:02	Hiding log in panel
+15:24:02	Showing register panel
+15:24:02	Caption of form changed to "Create your school account:"
+15:24:02	Updated DTP date to todays date
+15:24:02	User clicked Go Back button on register panel
+15:24:02	Showing login form
+15:24:02	Hiding register form
+15:24:02	Changing caption of form to: "Log into your school account: "
+15:24:03	Register now button clicked - Taking to register form
+15:24:03	Hiding log in panel
+15:24:03	Showing register panel
+15:24:03	Caption of form changed to "Create your school account:"
+15:24:03	Updated DTP date to todays date
+15:24:03	User clicked Go Back button on register panel
+15:24:03	Showing login form
+15:24:03	Hiding register form
+15:24:03	Changing caption of form to: "Log into your school account: "
+15:24:04	Register now button clicked - Taking to register form
+15:24:04	Hiding log in panel
+15:24:04	Showing register panel
+15:24:04	Caption of form changed to "Create your school account:"
+15:24:04	Updated DTP date to todays date
+15:24:06	User clicked Go Back button on register panel
+15:24:06	Showing login form
+15:24:06	Hiding register form
+15:24:06	Changing caption of form to: "Log into your school account: "
+15:24:07	Help button on Login form clicked
+15:24:07	Creating Help message
+15:24:07	Showing Help message
+15:24:34	Closing help text file
+15:24:35	Clicked password eye - Making it visible
+15:24:35	Changing Password char to #0
+15:24:36	CLicked password eye - Hiding it
+15:24:36	Changing Password char to *
+15:24:36	Clicked password eye - Making it visible
+15:24:36	Changing Password char to #0
+15:24:37	CLicked password eye - Hiding it
+15:24:37	Changing Password char to *
+15:24:37	Clicked password eye - Making it visible
+15:24:37	Changing Password char to #0
+15:24:38	Log in button clicked
+15:24:38	Data entered:
+			Username: 
+			Password: 
+15:24:40	Error: No Username entered
+15:24:45	Register now button clicked - Taking to register form
+15:24:45	Hiding log in panel
+15:24:45	Showing register panel
+15:24:45	Caption of 

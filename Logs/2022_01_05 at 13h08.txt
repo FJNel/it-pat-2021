@@ -1,0 +1,9 @@
+File created 2022/01/05 at 13:08:33
+
+
+*-*-*-*-*-*-*-*-*-*-*-*-*-*
+13:08:33	frmLogin has been activated
+13:08:33	tblData activated
+13:08:44	Register now button clicked - Taking to register form
+13:08:44	Hiding log in panel
+13:08:44	Showing register 

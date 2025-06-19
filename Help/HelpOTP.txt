@@ -1,0 +1,25 @@
+How to verify your identity by using a One Time Pin
+
+Description of OTP: Unlike your usual OTP where you should just retype the message that has been sent to your phone; this One Time Pin will use a generated phrase that you should decode/decipher. You will turn the phrase into a number.
+
+Purpose: The OTP verifies your identity
+
+The computer will generate a Phrase. This Phrase will only consist of capital letters and will have a length of 6 characters. You should decode the phrase and turn it into a number by looking the keypad on the left and use your keyboard to enter the decoded phrase. 
+
+You simply look at the letter/character, find it in the keypad on the screen, and then TYPE the number that corresponds to that character into the edit box. 
+The computer will automatically check if your decoded OTP is correct when you have entered 6 characters. If it is, you will be taken to the program designed for your user type, otherwise, you will get a message informing you that it is gone. 
+
+Here's some examples
+	Phrase to decode  -  Decoded OTP:
+	LBRQIY  -  527749
+	XBODWN  -  926396
+	RLNWJM  -  756956
+
+NOTE: More than one letter/character is resembled by a number. 
+For Example: A, B and C are all resembled by the number 2 (two). All the characters that you should decode are Capital Letters!
+
+If you struggle to decode a Phrase, you can press 'Reset' to generate a new phrase to decode.
+
+If you press the 'Go Back' button, you will be taken back so that you can reselect an option to verify yourself.
+
+All the characters that you should decode are Capital Letters!

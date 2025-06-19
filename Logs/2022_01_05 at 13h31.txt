@@ -1,0 +1,379 @@
+File created 2022/01/05 at 13:31:55
+
+
+*-*-*-*-*-*-*-*-*-*-*-*-*-*
+13:31:55	frmLogin has been activated
+13:31:55	tblData activated
+13:31:57	Register now button clicked - Taking to register form
+13:31:57	Hiding log in panel
+13:31:57	Showing register panel
+13:31:57	Caption of form changed to "Create your school account:"
+13:31:57	Updated DTP date to todays date
+13:32:09	
+13:32:09	+-+-+-+-+-+-+-+-+-+
+13:32:09	User enterred a char into password edit box
+13:32:09	Testing password strength
+13:32:09	Password enterred so far: 
+13:32:09	Number of grouped characters 
+			Lower case: 0
+			Upper case: 0
+			Special: 0
+			Number: 0
+			Spaces: 0
+13:32:09	Password strengh low
+13:32:09	Changing label color to red
+13:32:09	User cannot register: bEnterPW = False
+13:32:09	Showing strength
+13:32:09	Nothing enterred yet - Waiting for password: EnterPW = False
+13:32:09	Changing label color to gray
+13:32:09	+-+-+-+-+-+-+-+-+-+
+13:32:09	
+13:32:14	
+13:32:14	+-+-+-+-+-+-+-+-+-+
+13:32:14	User enterred a char into password edit box
+13:32:14	Testing password strength
+13:32:14	Password enterred so far: T
+13:32:14	Number of grouped characters 
+			Lower case: 0
+			Upper case: 1
+			Special: 0
+			Number: 0
+			Spaces: 0
+13:32:14	Password strengh low
+13:32:14	Changing label color to red
+13:32:14	User cannot register: bEnterPW = False
+13:32:14	Showing strength
+13:32:14	+-+-+-+-+-+-+-+-+-+
+13:32:14	
+13:32:14	
+13:32:14	+-+-+-+-+-+-+-+-+-+
+13:32:14	User enterred a char into password edit box
+13:32:14	Testing password strength
+13:32:14	Password enterred so far: T
+13:32:14	Number of grouped characters 
+			Lower case: 0
+			Upper case: 1
+			Special: 0
+			Number: 0
+			Spaces: 0
+13:32:14	Password strengh low
+13:32:14	Changing label color to red
+13:32:14	User cannot register: bEnterPW = False
+13:32:14	Showing strength
+13:32:14	+-+-+-+-+-+-+-+-+-+
+13:32:14	
+13:32:14	
+13:32:14	+-+-+-+-+-+-+-+-+-+
+13:32:14	User enterred a char into password edit box
+13:32:14	Testing password strength
+13:32:14	Password enterred so far: Th
+13:32:14	Number of grouped characters 
+			Lower case: 1
+			Upper case: 1
+			Special: 0
+			Number: 0
+			Spaces: 0
+13:32:14	Password strengh low
+13:32:14	Changing label color to red
+13:32:14	User cannot register: bEnterPW = False
+13:32:14	Showing strength
+13:32:14	+-+-+-+-+-+-+-+-+-+
+13:32:14	
+13:32:14	
+13:32:14	+-+-+-+-+-+-+-+-+-+
+13:32:14	User enterred a char into password edit box
+13:32:14	Testing password strength
+13:32:14	Password enterred so far: Thi
+13:32:14	Number of grouped characters 
+			Lower case: 2
+			Upper case: 1
+			Special: 0
+			Number: 0
+			Spaces: 0
+13:32:14	Password strengh low
+13:32:14	Changing label color to red
+13:32:14	User cannot register: bEnterPW = False
+13:32:14	Showing strength
+13:32:14	+-+-+-+-+-+-+-+-+-+
+13:32:14	
+13:32:14	
+13:32:14	+-+-+-+-+-+-+-+-+-+
+13:32:14	User enterred a char into password edit box
+13:32:14	Testing password strength
+13:32:14	Password enterred so far: This
+13:32:14	Number of grouped characters 
+			Lower case: 3
+			Upper case: 1
+			Special: 0
+			Number: 0
+			Spaces: 0
+13:32:14	Password strengh low
+13:32:14	Changing label color to red
+13:32:14	User cannot register: bEnterPW = False
+13:32:14	Showing strength
+13:32:14	+-+-+-+-+-+-+-+-+-+
+13:32:14	
+13:32:15	
+13:32:15	+-+-+-+-+-+-+-+-+-+
+13:32:15	User enterred a char into password edit box
+13:32:15	Testing password strength
+13:32:15	Password enterred so far: 
+13:32:15	Number of grouped characters 
+			Lower case: 0
+			Upper case: 0
+			Special: 0
+			Number: 0
+			Spaces: 0
+13:32:15	Password strengh low
+13:32:15	Changing label color to red
+13:32:15	User cannot register: bEnterPW = False
+13:32:15	Showing strength
+13:32:15	Nothing enterred yet - Waiting for password: EnterPW = False
+13:32:15	Changing label color to gray
+13:32:15	+-+-+-+-+-+-+-+-+-+
+13:32:15	
+13:32:16	
+13:32:16	+-+-+-+-+-+-+-+-+-+
+13:32:16	User enterred a char into password edit box
+13:32:16	Testing password strength
+13:32:16	Password enterred so far: a
+13:32:16	Number of grouped characters 
+			Lower case: 1
+			Upper case: 0
+			Special: 0
+			Number: 0
+			Spaces: 0
+13:32:16	Password strengh low
+13:32:16	Changing label color to red
+13:32:16	User cannot register: bEnterPW = False
+13:32:16	Showing strength
+13:32:16	+-+-+-+-+-+-+-+-+-+
+13:32:16	
+13:32:16	
+13:32:16	+-+-+-+-+-+-+-+-+-+
+13:32:16	User enterred a char into password edit box
+13:32:16	Testing password strength
+13:32:16	Password enterred so far: aa
+13:32:16	Number of grouped characters 
+			Lower case: 2
+			Upper case: 0
+			Special: 0
+			Number: 0
+			Spaces: 0
+13:32:16	Password strengh low
+13:32:16	Changing label color to red
+13:32:16	User cannot register: bEnterPW = False
+13:32:16	Showing strength
+13:32:16	+-+-+-+-+-+-+-+-+-+
+13:32:16	
+13:32:17	
+13:32:17	+-+-+-+-+-+-+-+-+-+
+13:32:17	User enterred a char into password edit box
+13:32:17	Testing password strength
+13:32:17	Password enterred so far: aaA
+13:32:17	Number of grouped characters 
+			Lower case: 2
+			Upper case: 1
+			Special: 0
+			Number: 0
+			Spaces: 0
+13:32:17	Password strengh low
+13:32:17	Changing label color to red
+13:32:17	User cannot register: bEnterPW = False
+13:32:17	Showing strength
+13:32:17	+-+-+-+-+-+-+-+-+-+
+13:32:17	
+13:32:17	
+13:32:17	+-+-+-+-+-+-+-+-+-+
+13:32:17	User enterred a char into password edit box
+13:32:17	Testing password strength
+13:32:17	Password enterred so far: aaAA
+13:32:17	Number of grouped characters 
+			Lower case: 2
+			Upper case: 2
+			Special: 0
+			Number: 0
+			Spaces: 0
+13:32:17	Password strengh low
+13:32:17	Changing label color to red
+13:32:17	User cannot register: bEnterPW = False
+13:32:17	Showing strength
+13:32:17	+-+-+-+-+-+-+-+-+-+
+13:32:17	
+13:32:17	
+13:32:17	+-+-+-+-+-+-+-+-+-+
+13:32:17	User enterred a char into password edit box
+13:32:17	Testing password strength
+13:32:17	Password enterred so far: aaAA@
+13:32:17	Number of grouped characters 
+			Lower case: 2
+			Upper case: 2
+			Special: 1
+			Number: 0
+			Spaces: 0
+13:32:17	Password strengh low
+13:32:17	Changing label color to red
+13:32:17	User cannot register: bEnterPW = False
+13:32:17	Showing strength
+13:32:17	+-+-+-+-+-+-+-+-+-+
+13:32:17	
+13:32:17	
+13:32:17	+-+-+-+-+-+-+-+-+-+
+13:32:17	User enterred a char into password edit box
+13:32:17	Testing password strength
+13:32:17	Password enterred so far: aaAA@@
+13:32:17	Number of grouped characters 
+			Lower case: 2
+			Upper case: 2
+			Special: 2
+			Number: 0
+			Spaces: 0
+13:32:17	Password strengh low
+13:32:17	Changing label color to red
+13:32:17	User cannot register: bEnterPW = False
+13:32:17	Showing strength
+13:32:17	+-+-+-+-+-+-+-+-+-+
+13:32:17	
+13:32:18	
+13:32:18	+-+-+-+-+-+-+-+-+-+
+13:32:18	User enterred a char into password edit box
+13:32:18	Testing password strength
+13:32:18	Password enterred so far: aaAA@@@
+13:32:18	Number of grouped characters 
+			Lower case: 2
+			Upper case: 2
+			Special: 3
+			Number: 0
+			Spaces: 0
+13:32:18	Password strengh low
+13:32:18	Changing label color to red
+13:32:18	User cannot register: bEnterPW = False
+13:32:18	Showing strength
+13:32:18	+-+-+-+-+-+-+-+-+-+
+13:32:18	
+13:32:18	
+13:32:18	+-+-+-+-+-+-+-+-+-+
+13:32:18	User enterred a char into password edit box
+13:32:18	Testing password strength
+13:32:18	Password enterred so far: aaAA@@@
+13:32:18	Number of grouped characters 
+			Lower case: 2
+			Upper case: 2
+			Special: 3
+			Number: 0
+			Spaces: 0
+13:32:18	Password strengh low
+13:32:18	Changing label color to red
+13:32:18	User cannot register: bEnterPW = False
+13:32:18	Showing strength
+13:32:18	+-+-+-+-+-+-+-+-+-+
+13:32:18	
+13:32:18	
+13:32:18	+-+-+-+-+-+-+-+-+-+
+13:32:18	User enterred a char into password edit box
+13:32:18	Testing password strength
+13:32:18	Password enterred so far: aaAA@@@1
+13:32:18	Number of grouped characters 
+			Lower case: 2
+			Upper case: 2
+			Special: 3
+			Number: 1
+			Spaces: 0
+13:32:18	Password strength medium
+13:32:18	Changing label color to orange
+13:32:18	User can now register: bEnterPW = True
+13:32:18	Showing strength
+13:32:18	+-+-+-+-+-+-+-+-+-+
+13:32:18	
+13:32:19	
+13:32:19	+-+-+-+-+-+-+-+-+-+
+13:32:19	User enterred a char into password edit box
+13:32:19	Testing password strength
+13:32:19	Password enterred so far: aaAA@@@12
+13:32:19	Number of grouped characters 
+			Lower case: 2
+			Upper case: 2
+			Special: 3
+			Number: 2
+			Spaces: 0
+13:32:19	Password strength medium
+13:32:19	Changing label color to orange
+13:32:19	User can now register: bEnterPW = True
+13:32:19	Showing strength
+13:32:19	+-+-+-+-+-+-+-+-+-+
+13:32:19	
+13:32:19	
+13:32:19	+-+-+-+-+-+-+-+-+-+
+13:32:19	User enterred a char into password edit box
+13:32:19	Testing password strength
+13:32:19	Password enterred so far: aaAA@@@123
+13:32:19	Number of grouped characters 
+			Lower case: 2
+			Upper case: 2
+			Special: 3
+			Number: 3
+			Spaces: 0
+13:32:19	Password strength medium
+13:32:19	Changing label color to orange
+13:32:19	User can now register: bEnterPW = True
+13:32:19	Showing strength
+13:32:19	+-+-+-+-+-+-+-+-+-+
+13:32:19	
+13:32:19	
+13:32:19	+-+-+-+-+-+-+-+-+-+
+13:32:19	User enterred a char into password edit box
+13:32:19	Testing password strength
+13:32:19	Password enterred so far: aaAA@@@123!
+13:32:19	Number of grouped characters 
+			Lower case: 2
+			Upper case: 2
+			Special: 4
+			Number: 3
+			Spaces: 0
+13:32:19	Password strength high
+13:32:19	Changin label color to green
+13:32:19	User can now register: bEnterPW = True
+13:32:19	Showing strength
+13:32:19	+-+-+-+-+-+-+-+-+-+
+13:32:19	
+13:32:19	
+13:32:19	+-+-+-+-+-+-+-+-+-+
+13:32:19	User enterred a char into password edit box
+13:32:19	Testing password strength
+13:32:19	Password enterred so far: aaAA@@@123!
+13:32:19	Number of grouped characters 
+			Lower case: 2
+			Upper case: 2
+			Special: 4
+			Number: 3
+			Spaces: 0
+13:32:19	Password strength high
+13:32:19	Changin label color to green
+13:32:19	User can now register: bEnterPW = True
+13:32:19	Showing strength
+13:32:19	+-+-+-+-+-+-+-+-+-+
+13:32:19	
+13:32:22	Register new account button clicked
+13:32:22	Data entered:
+			Username: Dandel10n
+			First Name: Dandi
+			Last Name: Lion
+			Birt date: 2022/01/04
+			Password: aaAA@@@123!
+			User type: Learner
+13:32:22	User input validated succesfully
+13:32:22	Inputting data from user
+13:32:22	cUserType: L
+13:32:22	Age calculated: 0
+13:32:22	Starting to register user information into database
+13:32:22	Posted user info succesfully into database
+13:32:31	Showed welcome message
+13:32:31	Register sussesful - Taking to log in panel
+13:32:31	Hiding Register panel
+13:32:31	Showing Log in panel
+13:32:31	Changing form caption to "Log into your school account: "
+13:33:07	Log in button clicked
+13:33:07	Data entered:
+			Username: Dandel10n
+			Password: aaAA@@@123!
+13:33:09	Error: Username is incorrect length. Length of

@@ -1,0 +1,19 @@
+File created 2022/01/05 at 13:33:59
+
+
+*-*-*-*-*-*-*-*-*-*-*-*-*-*
+13:33:59	frmLogin has been activated
+13:33:59	tblData activated
+13:34:10	Log in button clicked
+13:34:10	Data entered:
+			Username: Dandel10n
+			Password: aaAA@@@123!
+13:34:10	User input validated succesfully
+13:34:10	Username has been identified in database
+13:34:10	Password that corresponds to username is correct
+13:34:10	Showing frmVerify
+13:34:10	Hiding frmLogin 
+
+
+*-*-*-*-*-*-*-*-*-*-*-*-*-*
+13:34:10	frmVerify has been a
